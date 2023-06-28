@@ -1,0 +1,15 @@
+<a href="https://www.secrash.com/" target="_blank">Secrash - Bug Bounty Tips</a>
+<a href="https://www.secrash.com/p/admin-login-finder.html" target="_blank">Admin Login Finder</a>
+<a href="https://www.secrash.com/p/subdomain-scanner.html" target="_blank">Subdomain Finder</a>
+<a href="https://www.secrash.com/p/reverse-ip.html" target="_blank">Reverse IP</a>
+<a href="https://www.secrash.com/p/webpack-scan.html" target="_blank">Webpack Scanners</a>
+<a href="https://www.secrash.com/p/md5-crack.html" target="_blank">MD5 Crack</a>
+<a href="https://www.secrash.com/p/jsfuck.html" target="_blank">JSFuck for XSS</a>
+<a href="https://www.secrash.com/p/steganography-online.html" target="_blank">Steganography Online</a>
+<a href="https://www.secrash.com/p/cvss-v31-base-score-calculator.html" target="_blank">CVSS v3.1 Base Score Calculator</a>
+<a href="https://tools.secrash.com/owaspcalc/" target="_blank">OWASP Risk Assessment Calculator</a>
+<a href="https://www.secrash.com/p/chat-gpt.html" target="_blank">Chat GPT Online</a>
+<a href="https://www.secrash.com/2022/09/what-are-bug-bounties-how-do-they-work.html" target="_blank">What Are Bug Bounties & How Do They Work?</a>
+<a href="https://www.secrash.com/search/label/XSS" target="_blank">Cross Site Scripting (XSS)</a>
+<a href="https://www.secrash.com/2023/06/ethical-hacker-jobs.htm.html" target="_blank">Ethical Hacker Jobs 2023: Unleashing the Power of Cyber Security Warriors</a>
+<a href="https://www.secrash.com/2023/06/risk-assessment-vs-vulnerability.html" target="_blank">Risk Assessment vs Vulnerability Assessment : Understanding the Differences for Effective Security Planning</a>
